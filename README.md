@@ -38,6 +38,4 @@ uvicorn main:app --reload
 - Stores messages in Redis with a time-to-live (TTL).
 - FastAPI endpoints to view and flush data in Redis.
 
-## License
 
-This project is licensed under the MIT License.
