@@ -35,7 +35,7 @@ uvicorn main:app --reload
 ## Features
 
 - Asynchronous Kafka message consumption.
-- Stores messages in Redis with a time-to-live (TTL).
+- Stores messages asynchronously in Redis with a time-to-live (TTL).
 - FastAPI endpoints to view and flush data in Redis.
 
 
