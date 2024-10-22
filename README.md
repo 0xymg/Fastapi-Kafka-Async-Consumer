@@ -15,7 +15,7 @@ This project demonstrates how to consume messages from a Kafka using FastAPI. It
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/0xymg/Fastapi-Kafka-Async-Consumer.git
    ```
    
 2. Install the required dependencies:
