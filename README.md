@@ -1,4 +1,4 @@
-# FastAPI Kafka Async Consumer
+# FastAPI Kafka Redis Async Consumer and Async Storager
 
 ## Overview
 
