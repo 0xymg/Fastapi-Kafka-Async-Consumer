@@ -24,7 +24,17 @@ This project demonstrates how to consume messages from a Kafka using FastAPI. It
    ```
 
 3. Set up environment variables for Kafka and Redis configuration in a `.env` file.
-
+   ```bash
+   ## KAFKA CONFIGURATIONS 
+   USERNAME2=''
+   PASSWORD=  ''
+   SERVERS=''
+   GROUP_ID=''
+   ## REDIS CONFIGURATIONS
+   REDIS_HOST=''
+   REDIS_PORT=6379
+   REDIS_DB = 0 ## 0...15
+   ```
 ## Running the Application
 
 To run the FastAPI server, execute the following command:
